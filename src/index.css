@@ -79,3 +79,13 @@ header {
 .rating li label {
     
 }
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
