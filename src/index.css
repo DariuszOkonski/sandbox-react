@@ -76,6 +76,12 @@ header {
     transition: 0.3s;
 }
 
+.feedback-stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .rating li label {
     
 }

@@ -32,7 +32,7 @@ FeedbackList.propTypes = {
             text: PropTypes.string.isRequired,
             rating: PropTypes.number.isRequired,
         })
-    ),
+    ).isRequired,
     handleDelete: PropTypes.func.isRequired
 }
 
