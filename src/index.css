@@ -84,6 +84,15 @@ header {
     align-items: center;
 }
 
+/* .rating {
+        
+} */
+
+.rating li {
+    position: relative;
+    background-color: #999;
+}
+
 .rating li label {
     position: absolute;
     top: 50%;
